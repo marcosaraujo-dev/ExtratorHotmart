@@ -1,0 +1,12 @@
+C:\Users\Marcos\Source\Repos\ExtratorHotmart\ExtratorHotmart.Infra\bin\Debug\net6.0\ExtratorHotmart.Infra.Data.API.deps.json
+C:\Users\Marcos\Source\Repos\ExtratorHotmart\ExtratorHotmart.Infra\bin\Debug\net6.0\ExtratorHotmart.Infra.Data.API.dll
+C:\Users\Marcos\Source\Repos\ExtratorHotmart\ExtratorHotmart.Infra\bin\Debug\net6.0\ExtratorHotmart.Infra.Data.API.pdb
+C:\Users\Marcos\Source\Repos\ExtratorHotmart\ExtratorHotmart.Infra\obj\Debug\net6.0\ExtratorHotmart.Infra.Data.API.csproj.AssemblyReference.cache
+C:\Users\Marcos\Source\Repos\ExtratorHotmart\ExtratorHotmart.Infra\obj\Debug\net6.0\ExtratorHotmart.Infra.Data.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Source\Repos\ExtratorHotmart\ExtratorHotmart.Infra\obj\Debug\net6.0\ExtratorHotmart.Infra.Data.API.AssemblyInfoInputs.cache
+C:\Users\Marcos\Source\Repos\ExtratorHotmart\ExtratorHotmart.Infra\obj\Debug\net6.0\ExtratorHotmart.Infra.Data.API.AssemblyInfo.cs
+C:\Users\Marcos\Source\Repos\ExtratorHotmart\ExtratorHotmart.Infra\obj\Debug\net6.0\ExtratorHotmart.Infra.Data.API.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Source\Repos\ExtratorHotmart\ExtratorHotmart.Infra\obj\Debug\net6.0\ExtratorHotmart.Infra.Data.API.dll
+C:\Users\Marcos\Source\Repos\ExtratorHotmart\ExtratorHotmart.Infra\obj\Debug\net6.0\refint\ExtratorHotmart.Infra.Data.API.dll
+C:\Users\Marcos\Source\Repos\ExtratorHotmart\ExtratorHotmart.Infra\obj\Debug\net6.0\ExtratorHotmart.Infra.Data.API.pdb
+C:\Users\Marcos\Source\Repos\ExtratorHotmart\ExtratorHotmart.Infra\obj\Debug\net6.0\ref\ExtratorHotmart.Infra.Data.API.dll

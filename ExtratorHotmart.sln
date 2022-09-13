@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servicos", "Servicos", "{3B64F43A-851D-4258-851A-4E402DC341F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{BEFCFC37-0495-4432-95CF-79C5779B52AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{F59A0878-A425-4C8C-A0A1-2FDEA5163B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtratorHotmart.Infra.Data.API", "ExtratorHotmart.Infra\ExtratorHotmart.Infra.Data.API.csproj", "{3E715ACA-2B20-44B6-985E-9E3950C385D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{F6C45C03-F332-4808-8C73-F40152B50FD2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Console", "Console", "{962D0F65-8462-4C40-8314-FC1366D7A0D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtratorHotmart.Console", "ExtratorHotmart.Console\ExtratorHotmart.Console.csproj", "{3D0A93B1-8B6E-47AB-A252-EC7CC8941795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E715ACA-2B20-44B6-985E-9E3950C385D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E715ACA-2B20-44B6-985E-9E3950C385D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E715ACA-2B20-44B6-985E-9E3950C385D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E715ACA-2B20-44B6-985E-9E3950C385D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0A93B1-8B6E-47AB-A252-EC7CC8941795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0A93B1-8B6E-47AB-A252-EC7CC8941795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0A93B1-8B6E-47AB-A252-EC7CC8941795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0A93B1-8B6E-47AB-A252-EC7CC8941795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F59A0878-A425-4C8C-A0A1-2FDEA5163B5C} = {3B64F43A-851D-4258-851A-4E402DC341F3}
+		{3E715ACA-2B20-44B6-985E-9E3950C385D6} = {F6C45C03-F332-4808-8C73-F40152B50FD2}
+		{F6C45C03-F332-4808-8C73-F40152B50FD2} = {F59A0878-A425-4C8C-A0A1-2FDEA5163B5C}
+		{962D0F65-8462-4C40-8314-FC1366D7A0D7} = {BEFCFC37-0495-4432-95CF-79C5779B52AF}
+		{3D0A93B1-8B6E-47AB-A252-EC7CC8941795} = {962D0F65-8462-4C40-8314-FC1366D7A0D7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED1C394B-D9DC-48B0-ACCA-6125B2122DD8}
+	EndGlobalSection
+EndGlobal
